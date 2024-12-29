@@ -18,7 +18,7 @@ Here are some of the tools and technologies I work with:
 - **Frameworks and Libraries:** .NET, React, Node.js, Express, Next.js
 - **Tools:** Git, Docker, VS Code, Webpack
 
-## 📈 GitHub Stats
+## 📉 GitHub Stats
 
 ![Toasty777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toasty777&show_icons=true&theme=radical)
 
