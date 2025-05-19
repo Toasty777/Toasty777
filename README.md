@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development and always ea
 
 ## 🚀 About Me
 
-- 🥨 Just a 17 year old femboy from germany
+- 🥨 Just a 17 year old guy from germany
 - 🌱 Currently training to become a computer scientist
 - 👯 I’m looking to collaborate on **Open Source Web Development Projects**
 - 🤔 Also looking for help with **Progressive Web Apps (PWAs) and Serverless Architectures**
@@ -24,10 +24,10 @@ Here are some of the tools and technologies I work with:
 
 ## 💡 Fun Fact
 
-- I love repairing/modding things :3
+- I love repairing/modding things
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about tech :3 (I'm lonely)
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about tech
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Toasty777&color=blue)
