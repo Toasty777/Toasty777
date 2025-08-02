@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development and always ea
 
 ## 🚀 About Me
 
-- 🥨 Just a 17 year old guy from germany
+- 🥨 Just a 18 year old guy from germany
 - 🌱 Currently training to become a computer scientist
 - 👯 I’m looking to collaborate on **Open Source Web Development Projects**
 - 🤔 Also looking for help with **Progressive Web Apps (PWAs) and Serverless Architectures**
